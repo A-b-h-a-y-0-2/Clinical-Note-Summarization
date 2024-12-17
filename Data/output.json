@@ -1,0 +1,485 @@
+{
+    "journal_title": "The Journal of Cell Biology",
+    "issns": {
+        "print": "0021-9525",
+        "online": "1540-8140"
+    },
+    "publisher": "The Rockefeller University Press",
+    "article_title": "Bend propagation drives central pair rotation in",
+    "subtitle": "",
+    "authors": [
+        "David R. Mitchell",
+        "Masako Nakatsugawa"
+    ],
+    "correspondence": [],
+    "publication_date": "2004",
+    "volume": "166",
+    "issue": "5",
+    "pages": "709-715",
+    "doi": "10.1083/jcb.200406148",
+    "abstract": [
+        "Regulation of motile 9+2 cilia and flagella depends on interactions between radial spokes and a central pair apparatus. Although the central pair rotates during bend propagation in flagella of many organisms and rotation correlates with a twisted central pair structure, propulsive forces for central pair rotation and twist are unknown. Here we compared central pair conformation in straight, quiescent flagella to that in actively beating flagella using wild-type  Chlamydomonas reinhardtii  and mutants that lack radial spoke heads. Twists occur in quiescent flagella in both the presence and absence of spoke heads, indicating that spoke–central pair interactions are not needed to generate torque for twisting. Central pair orientation in propagating bends was also similar in wild type and spoke head mutant strains, thus orientation is a passive response to bend formation. These results indicate that bend propagation drives central pair rotation and suggest that dynein regulation by central pair–radial spoke interactions involves passive central pair reorientation to changes in bend plane."
+    ],
+    "keywords": [
+        "cilia; radial spoke; dynein; motility; microtubule"
+    ],
+    "abbreviations": [],
+    "sections": [
+        {
+            "title": "Introduction",
+            "paragraphs": [
+                "Because all major phylogenetic divisions of eukaryotes contain organisms with 9+2 organelles, the ancestor of all extant eukaryotes must have been a single-celled organism with a 9+2 flagellum ( Baldauf et al., 2000 ;  Cavalier-Smith, 2002 ). Therefore, the central pair microtubule complex evolved very early as an essential element in flagellar motility, and this machinery has survived with little modification during evolution into today's phylogenetically diverse organisms. Flagella become paralyzed when either the central pair or radial spokes are missing ( Witman et al., 1978 ;  Baccetti et al., 1979 ), but the precise function of these structures remains elusive. To better understand the conserved function of central pair complexes, it is essential to first understand the relationship between these asymmetric structures and the pattern of dynein activation necessary for bend propagation. This task is complicated by the apparent rotation of the central pair in cilia and flagella of some organisms but not of others ( Omoto et al., 1999 ). Our results explain this dichotomy and support a specific model of central pair-based regulation of ciliary and flagellar motility.",
+                "Regulation of eukaryotic ciliary and flagellar motility is essential for a wide range of biological processes such as sperm chemotaxis and mucociliary clearance in metazoans and foraging behavior in smaller aquatic eukaryotes. Radial spokes tightly associate with the nine outer doublet microtubules and project toward a central pair apparatus (CP) with which they form transient contacts. During flagellar bending, doublet microtubules slide and spokes must move along the CP surface. Although the CP is nearly circular in cross section, its underlying structure and biochemistry are highly asymmetric ( Adams et al., 1981 ;  Mitchell, 2003a ). In addition, rows of radial spokes on each doublet align with different surfaces of the CP that each form unique sites of potential interaction, and these interaction sites change as the CP rotates. We recently determined ( Mitchell, 2003b ) that the  Chlamydomonas  flagellar CP, like that of  Paramecium tetraurelia  cilia ( Omoto and Kung, 1980 ), twists in actively beating flagella so that the CP surface facing each row of spokes in bent regions is different from the CP surface facing the same row of spokes in straight regions between bends. When swimming cells were fixed for electron microscopy, the plane through the two CP microtubules was always parallel to the bend plane in curved segments and CP microtubule C1 was nearest the outer edge of each curve. Similar CP orientations in principal and reverse bends were related by 180° twists in interbend regions.",
+                "The constant relationship between CP orientation and bend position in  Chlamydomonas  flagella suggests that bend propagation may drive CP rotation. If the CP is inherently twisted, forced propagation of one CP orientation along with propagation of each bend would result in CP rotation. However, it is equally possible that CP rotation is the driving force that induces bend propagation and that CP twist is caused by the torque of a rotation force. If CP rotation and twist are active processes, then they must occur either through torque generated between CP projections and radial spokes or at sites of CP attachment to flagellar distal tip structures. A rotation force at the tip is unlikely to drive bend propagation because bends form at the proximal end in  Chlamydomonas  flagella and because the CP continues to rotate after its partial extrusion from flagellar tips ( Kamiya, 1982 ). We set out to determine if CP rotation and twist are causally linked to bend propagation and if radial spoke interactions with CP projections are required for this process. We conclude that bend propagation drives CP rotation, rather than the reverse, and use this conclusion as a basis to constrain models of radial spoke–central pair regulation of flagellar dynein activity."
+            ],
+            "figures": [],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "Results",
+            "paragraphs": [],
+            "figures": [],
+            "tables": [],
+            "lists": [],
+            "subsections": [
+                {
+                    "title": "CP orientation in adherent wild-type flagella",
+                    "paragraphs": [
+                        "To test the effects of bend propagation on CP orientation, we exploited the natural tendency of the biflagellate  Chlamydomonas  to alternate between periods of continuous swimming (when suspended in a liquid medium) and periods of quiescence (when a solid surface is encountered). In  Chlamydomonas , quiescence is initiated by adhesion of a portion of one flagellar surface to a solid substrate (e.g., the coverslip), followed by a rapid reduction in beat frequency and adhesion of the second flagellum ( Mitchell et al., 2004 ). Cessation of beating usually leads to surface adherence by both flagella along nearly their entire lengths from their tips to a region near the cell body, with the two flagella pointing in opposite directions. Although quiescent flagella can engage in surface motility to translocate cells by gliding ( Bloodgood, 1981 ), they cannot actively generate or propagate bends unless quiescence is overridden by suppressor mutations ( Mitchell et al., 2004 ). Electron microscopy of adherent, quiescent flagella was used to determine CP orientation in the absence of bend formation or propagation. The types of images generated and their interpretations are diagrammed in  Fig. 1 . If a plane through the CP remains parallel to the section plane, then both CP microtubules should remain visible in the part of the flagellum exposed by the section; if the CP is perpendicular to the section plane, then only a single CP should be visible; if the CP twists, then parallel views will alternate with perpendicular views. Ideal alignments of twisted regions will reveal one of the two microtubules throughout the section while the other microtubule passes in and out of the section plane. Sections cut through quiescent cells perpendicular to the coverslip ( Fig. 2  A) confirm that only 1–2 μm at the proximal end of each flagellum is curved, and the rest of the ∼12-μm-long flagellum is closely adherent to the flat coverslip surface. Sections cut parallel to the coverslip expose the distal 5–10 μm of many flagella ( Fig. 2  B). In 45 examples of wild-type flagella that revealed CP orientation over lengths of at least 5 μm, twisting of the CP was observed 67% of the time (30 flagella). None of the 30 flagella with CP twists had more than one twist in the regions (up to 10 μm) visible in these sections.  Fig. 2  C is an example of a twisted CP in a quiescent wild-type flagellum. To emphasize changes in CP orientation over extended lengths, original images ( Fig. 2, C and D , insets) were distorted by a linear scale transform.  Fig. 2  D shows two examples of CP that do not appear to twist within the region available for analysis, and in both flagella the CP are parallel to the coverslip. Overall, in straight segments where no twist was observed, CP orientation was apparently random because parallel, perpendicular, and 3/4 views were seen with similar frequency. In contrast, most curved segments of quiescent flagella had a parallel CP conformation. Because these flagella are not beating, bend propagation does not provide forces that cause central pair twist or that result in an orientation parallel to the bend plane in curved regions."
+                    ],
+                    "figures": [
+                        {
+                            "caption": "Diagram illustrating the central pair images expected from longitudinal thin sections through flagella.  Thin sections of CP that are parallel to the section plane reveal both CP microtubules. If the CP is perpendicular, the section reveals a single CP microtubule. If the CP is twisted, parallel and perpendicular views alternate and one CP microtubule tracks from one edge to the other edge of the parallel views."
+                        },
+                        {
+                            "caption": "Central pair orientation in quiescent wild-type flagella.  (A) A section perpendicular to the glass surface (dashed line) shows one adherent cell and basal regions of both flagella as they exit the cell wall. (B) Low magnification view parallel to the glass surface shows many pairs of flagella. Arrow in C indicates location of a CP twist, whereas no twists are visible in either flagellum in D. Images in C and D have been distorted by a linear scale transformation in one dimension to emphasize CP orientations; insets in each figure show undistorted images. Bars: (A and insets C and D) 1 μm; (B) 5 μm."
+                        }
+                    ],
+                    "tables": [],
+                    "lists": [],
+                    "subsections": []
+                },
+                {
+                    "title": "CP orientation in adherent spoke-defective flagella",
+                    "paragraphs": [
+                        "To determine the contribution of spoke–CP interactions to torque generation, we compared wild-type strains with mutant strains  pf1  and  pf17 , which fail to assemble the CP-interactive radial spoke heads and have paralyzed flagella ( Huang et al., 1979 ). Electron microscopy of straight, quiescent flagella that lack spoke heads was used to find out whether the CP is inherently straight or twisted in vivo, in the absence of any potential spoke-dependent torque. Initial attempts to fix quiescent  pf17  flagella produced few useful images because spoke-defective paralyzed mutant strains rarely adhered to the glass surface by their flagella. To increase sample size, images were obtained by fixing adherent  pf1sup-pf1  flagella. The  sup-pf1  mutations are bypass suppressor mutations in an outer row dynein heavy chain ( Porter et al., 1994 ) and restore motility but not spoke structure ( Huang et al., 1982 ). Although  sup-pf1  by itself is quiescence defective,  pf1sup-pf1  double mutants are not ( Mitchell et al., 2004 ).",
+                        "As illustrated in  Fig. 3 , formation of CP twists does not depend on interactions between radial spoke heads and CP projections. Straight segments of  pf1  and  pf17  flagella often contained twisted CP, and in one image ( Fig. 3, A  and A') two CP twists occur within one visible segment. Where adherent flagella were curved, the CP remained parallel to the section plane ( Fig. 3, C and C '), similar to the orientation in curved segments of adherent wild-type flagella ( Fig. 2  D). Overall, lack of spoke heads had no apparent effect on CP orientation in quiescent flagella, which suggests that spoke head interactions with the CP are not important determinants of CP shape or orientation under these quiescent conditions."
+                    ],
+                    "figures": [
+                        {
+                            "caption": "Central pair orientation in quiescent spoke-defective flagella.  Each pair of images includes one undistorted image (A–C) and one image distorted to emphasize CP orientation (A'–C'). (A and A') A  pf17  flagellum in which the CP has two twists (arrows). (B and B') A  pf1sup-pf1  flagellum with one twist (arrow). (C and C') A curved  pf1sup-pf1  flagellum with one twist (arrow) between bends of opposite curvature. CP microtubules are parallel to the substrate in curved regions. Bars, 1 μm."
+                        }
+                    ],
+                    "tables": [],
+                    "lists": [],
+                    "subsections": []
+                },
+                {
+                    "title": "CP orientation during bend propagation in spoke-defective flagella",
+                    "paragraphs": [
+                        "The combination of a spoke assembly mutation (e.g.,  pf1 ) and a bypass suppressor mutation (e.g.,  sup-pf1 ) in one cell results in motile flagella, even though spoke heads remain absent ( Huang et al., 1982 ). Although these suppressed spoke-defective strains beat with abnormal waveforms and reduced beat frequencies, they continuously propagate large-amplitude base-to-tip bends in the absence of functional CP–radial spoke interactions ( Brokaw et al., 1982 ). We fixed swimming  pf1sup-pf1  cells to preserve propagating bends and observed CP orientation in bent and straight flagellar segments to learn whether or not spokes contribute to maintaining the parallel CP orientation previously seen in bends of wild-type flagella ( Mitchell, 2003b ). In all images of curved flagellar segments that revealed CP orientation in these cells, CP microtubules were side by side (parallel orientation). These included principal bends ( Fig. 4 , A–C) and reverse bends ( Fig. 4, B and D ). Twists in straight segments ( Fig. 4  B) were similar to those seen previously in wild-type flagella ( Mitchell, 2003b ). In further support of a model in which the CP undergoes a 180° twist between principal and reverse bends, the C1-associated 32-nm repeat projections, when visible, always faced the outside of both principal bend ( Fig. 4  C) and reverse bend ( Fig. 4  D) curves. Thus, CP orientation is parallel, with C1 facing the outside of the curve, in each propagating bend even though radial spoke heads are missing."
+                    ],
+                    "figures": [
+                        {
+                            "caption": "Central pair orientation in beating spoke-defective flagella.  (A and C) CP orientation (emphasized by parallel white lines in the enlargements) is parallel to the bend plane in principal bends. (B) The CP twists (arrow) in a straight region between principal and reverse bends (image distorted by a linear transformation; inset shows an undistorted image). The 32-nm repeat projection (small arrows) diagnostic for C1 appears along the outer edge of both principal bends (C) and reverse bends (D). Insets show the location of enlarged regions. Bars: (insets) 1 μm; (enlargements) 100 nm."
+                        }
+                    ],
+                    "tables": [],
+                    "lists": [],
+                    "subsections": []
+                },
+                {
+                    "title": "The CP is inherently twisted in vitro",
+                    "paragraphs": [
+                        "The apparent twisting tendency of the CP in vivo, even in the absence of radial spoke heads, was further examined in vitro in preparations of extruded and partially purified CP. As previously described ( Kamiya et al., 1982 ), once extruded, the  Chlamydomonas  CP become left-handed helices ( Fig. 5  A). When extruded CP were negatively stained, flattening of helices onto the specimen grid formed either coils, in which the direction of curvature did not change, or sinusoidal shapes, in which curvature changed direction one or more times ( Fig. 5  B). All curved regions displayed the two CP microtubules side-by-side, with C1 (identified on the basis of its 32-nm repeat projections) along the outside edge of the curve ( Fig. 5  D). Transitions in curve direction were accompanied by a twist in the CP ( Fig. 5  C) that maintained C1 along the outside edge. The helical shape of these CP in vitro is consistent with a CP that, if straightened, should contain at most two twists (one twist per helical turn), and if allowed to curve, would always have the C1 microtubule along its outer edge."
+                    ],
+                    "figures": [
+                        {
+                            "caption": "Helical shape of extruded CP complexes.  (A) CP extruded from wild-type flagella and visualized by dark field microscopy are helical. Two images in the top row show one CP at different focal planes. Black lines indicate the borders of individual images assembled for this panel. (B–D) Helical CP flatten onto specimen grids when negatively stained. Changes in curvature (boxed region in B, enlarged in C) are accompanied by twists (C, arrow). The two CP microtubules are side by side in curved regions (C and D) with C1 (marked by 32-nm repeat projections, small arrows in D) along the outer edge of each curve. A dashed line in C follows the midline of the C1 microtubule as it passes through a twist. Bars: (A) 5 μm; (B) 1 μm; (C and D) 100 nm."
+                        }
+                    ],
+                    "tables": [],
+                    "lists": [],
+                    "subsections": []
+                }
+            ]
+        },
+        {
+            "title": "CP orientation in adherent wild-type flagella",
+            "paragraphs": [
+                "To test the effects of bend propagation on CP orientation, we exploited the natural tendency of the biflagellate  Chlamydomonas  to alternate between periods of continuous swimming (when suspended in a liquid medium) and periods of quiescence (when a solid surface is encountered). In  Chlamydomonas , quiescence is initiated by adhesion of a portion of one flagellar surface to a solid substrate (e.g., the coverslip), followed by a rapid reduction in beat frequency and adhesion of the second flagellum ( Mitchell et al., 2004 ). Cessation of beating usually leads to surface adherence by both flagella along nearly their entire lengths from their tips to a region near the cell body, with the two flagella pointing in opposite directions. Although quiescent flagella can engage in surface motility to translocate cells by gliding ( Bloodgood, 1981 ), they cannot actively generate or propagate bends unless quiescence is overridden by suppressor mutations ( Mitchell et al., 2004 ). Electron microscopy of adherent, quiescent flagella was used to determine CP orientation in the absence of bend formation or propagation. The types of images generated and their interpretations are diagrammed in  Fig. 1 . If a plane through the CP remains parallel to the section plane, then both CP microtubules should remain visible in the part of the flagellum exposed by the section; if the CP is perpendicular to the section plane, then only a single CP should be visible; if the CP twists, then parallel views will alternate with perpendicular views. Ideal alignments of twisted regions will reveal one of the two microtubules throughout the section while the other microtubule passes in and out of the section plane. Sections cut through quiescent cells perpendicular to the coverslip ( Fig. 2  A) confirm that only 1–2 μm at the proximal end of each flagellum is curved, and the rest of the ∼12-μm-long flagellum is closely adherent to the flat coverslip surface. Sections cut parallel to the coverslip expose the distal 5–10 μm of many flagella ( Fig. 2  B). In 45 examples of wild-type flagella that revealed CP orientation over lengths of at least 5 μm, twisting of the CP was observed 67% of the time (30 flagella). None of the 30 flagella with CP twists had more than one twist in the regions (up to 10 μm) visible in these sections.  Fig. 2  C is an example of a twisted CP in a quiescent wild-type flagellum. To emphasize changes in CP orientation over extended lengths, original images ( Fig. 2, C and D , insets) were distorted by a linear scale transform.  Fig. 2  D shows two examples of CP that do not appear to twist within the region available for analysis, and in both flagella the CP are parallel to the coverslip. Overall, in straight segments where no twist was observed, CP orientation was apparently random because parallel, perpendicular, and 3/4 views were seen with similar frequency. In contrast, most curved segments of quiescent flagella had a parallel CP conformation. Because these flagella are not beating, bend propagation does not provide forces that cause central pair twist or that result in an orientation parallel to the bend plane in curved regions."
+            ],
+            "figures": [
+                {
+                    "caption": "Diagram illustrating the central pair images expected from longitudinal thin sections through flagella.  Thin sections of CP that are parallel to the section plane reveal both CP microtubules. If the CP is perpendicular, the section reveals a single CP microtubule. If the CP is twisted, parallel and perpendicular views alternate and one CP microtubule tracks from one edge to the other edge of the parallel views."
+                },
+                {
+                    "caption": "Central pair orientation in quiescent wild-type flagella.  (A) A section perpendicular to the glass surface (dashed line) shows one adherent cell and basal regions of both flagella as they exit the cell wall. (B) Low magnification view parallel to the glass surface shows many pairs of flagella. Arrow in C indicates location of a CP twist, whereas no twists are visible in either flagellum in D. Images in C and D have been distorted by a linear scale transformation in one dimension to emphasize CP orientations; insets in each figure show undistorted images. Bars: (A and insets C and D) 1 μm; (B) 5 μm."
+                }
+            ],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "CP orientation in adherent spoke-defective flagella",
+            "paragraphs": [
+                "To determine the contribution of spoke–CP interactions to torque generation, we compared wild-type strains with mutant strains  pf1  and  pf17 , which fail to assemble the CP-interactive radial spoke heads and have paralyzed flagella ( Huang et al., 1979 ). Electron microscopy of straight, quiescent flagella that lack spoke heads was used to find out whether the CP is inherently straight or twisted in vivo, in the absence of any potential spoke-dependent torque. Initial attempts to fix quiescent  pf17  flagella produced few useful images because spoke-defective paralyzed mutant strains rarely adhered to the glass surface by their flagella. To increase sample size, images were obtained by fixing adherent  pf1sup-pf1  flagella. The  sup-pf1  mutations are bypass suppressor mutations in an outer row dynein heavy chain ( Porter et al., 1994 ) and restore motility but not spoke structure ( Huang et al., 1982 ). Although  sup-pf1  by itself is quiescence defective,  pf1sup-pf1  double mutants are not ( Mitchell et al., 2004 ).",
+                "As illustrated in  Fig. 3 , formation of CP twists does not depend on interactions between radial spoke heads and CP projections. Straight segments of  pf1  and  pf17  flagella often contained twisted CP, and in one image ( Fig. 3, A  and A') two CP twists occur within one visible segment. Where adherent flagella were curved, the CP remained parallel to the section plane ( Fig. 3, C and C '), similar to the orientation in curved segments of adherent wild-type flagella ( Fig. 2  D). Overall, lack of spoke heads had no apparent effect on CP orientation in quiescent flagella, which suggests that spoke head interactions with the CP are not important determinants of CP shape or orientation under these quiescent conditions."
+            ],
+            "figures": [
+                {
+                    "caption": "Central pair orientation in quiescent spoke-defective flagella.  Each pair of images includes one undistorted image (A–C) and one image distorted to emphasize CP orientation (A'–C'). (A and A') A  pf17  flagellum in which the CP has two twists (arrows). (B and B') A  pf1sup-pf1  flagellum with one twist (arrow). (C and C') A curved  pf1sup-pf1  flagellum with one twist (arrow) between bends of opposite curvature. CP microtubules are parallel to the substrate in curved regions. Bars, 1 μm."
+                }
+            ],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "CP orientation during bend propagation in spoke-defective flagella",
+            "paragraphs": [
+                "The combination of a spoke assembly mutation (e.g.,  pf1 ) and a bypass suppressor mutation (e.g.,  sup-pf1 ) in one cell results in motile flagella, even though spoke heads remain absent ( Huang et al., 1982 ). Although these suppressed spoke-defective strains beat with abnormal waveforms and reduced beat frequencies, they continuously propagate large-amplitude base-to-tip bends in the absence of functional CP–radial spoke interactions ( Brokaw et al., 1982 ). We fixed swimming  pf1sup-pf1  cells to preserve propagating bends and observed CP orientation in bent and straight flagellar segments to learn whether or not spokes contribute to maintaining the parallel CP orientation previously seen in bends of wild-type flagella ( Mitchell, 2003b ). In all images of curved flagellar segments that revealed CP orientation in these cells, CP microtubules were side by side (parallel orientation). These included principal bends ( Fig. 4 , A–C) and reverse bends ( Fig. 4, B and D ). Twists in straight segments ( Fig. 4  B) were similar to those seen previously in wild-type flagella ( Mitchell, 2003b ). In further support of a model in which the CP undergoes a 180° twist between principal and reverse bends, the C1-associated 32-nm repeat projections, when visible, always faced the outside of both principal bend ( Fig. 4  C) and reverse bend ( Fig. 4  D) curves. Thus, CP orientation is parallel, with C1 facing the outside of the curve, in each propagating bend even though radial spoke heads are missing."
+            ],
+            "figures": [
+                {
+                    "caption": "Central pair orientation in beating spoke-defective flagella.  (A and C) CP orientation (emphasized by parallel white lines in the enlargements) is parallel to the bend plane in principal bends. (B) The CP twists (arrow) in a straight region between principal and reverse bends (image distorted by a linear transformation; inset shows an undistorted image). The 32-nm repeat projection (small arrows) diagnostic for C1 appears along the outer edge of both principal bends (C) and reverse bends (D). Insets show the location of enlarged regions. Bars: (insets) 1 μm; (enlargements) 100 nm."
+                }
+            ],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "The CP is inherently twisted in vitro",
+            "paragraphs": [
+                "The apparent twisting tendency of the CP in vivo, even in the absence of radial spoke heads, was further examined in vitro in preparations of extruded and partially purified CP. As previously described ( Kamiya et al., 1982 ), once extruded, the  Chlamydomonas  CP become left-handed helices ( Fig. 5  A). When extruded CP were negatively stained, flattening of helices onto the specimen grid formed either coils, in which the direction of curvature did not change, or sinusoidal shapes, in which curvature changed direction one or more times ( Fig. 5  B). All curved regions displayed the two CP microtubules side-by-side, with C1 (identified on the basis of its 32-nm repeat projections) along the outside edge of the curve ( Fig. 5  D). Transitions in curve direction were accompanied by a twist in the CP ( Fig. 5  C) that maintained C1 along the outside edge. The helical shape of these CP in vitro is consistent with a CP that, if straightened, should contain at most two twists (one twist per helical turn), and if allowed to curve, would always have the C1 microtubule along its outer edge."
+            ],
+            "figures": [
+                {
+                    "caption": "Helical shape of extruded CP complexes.  (A) CP extruded from wild-type flagella and visualized by dark field microscopy are helical. Two images in the top row show one CP at different focal planes. Black lines indicate the borders of individual images assembled for this panel. (B–D) Helical CP flatten onto specimen grids when negatively stained. Changes in curvature (boxed region in B, enlarged in C) are accompanied by twists (C, arrow). The two CP microtubules are side by side in curved regions (C and D) with C1 (marked by 32-nm repeat projections, small arrows in D) along the outer edge of each curve. A dashed line in C follows the midline of the C1 microtubule as it passes through a twist. Bars: (A) 5 μm; (B) 1 μm; (C and D) 100 nm."
+                }
+            ],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "Discussion",
+            "paragraphs": [
+                "Our results show that the  Chlamydomonas  CP complex has the properties of an inherently helical structure that takes on a curved conformation in flagellar bends and a twisted conformation when it is forced to straighten. We confirm previous reports ( Kamiya et al., 1982 ) that the  Chlamydomonas  CP complex is helical when extruded and unconstrained by surrounding doublets, similar to the conformation of extruded  Tetrahymena thermophila  ciliary CP complexes ( Mitchell, 1980 ). Straightening a helix induces twists, and we show that in vivo, in straight, quiescent flagella, the CP is twisted. By using mutants that lack radial spoke heads, we further show that such twists are not formed by torque exerted through CP–radial spoke interactions; instead, absence of spokes may correlate with more frequent twists. Our only two examples of flagella in which the CP twists through more than 180° were both obtained from samples that lacked spoke heads.",
+                "Previous studies of wild-type cells that were fixed while swimming revealed a constant CP orientation in bends, such that both CP microtubules are parallel to the bend plane, with C1 nearest the outer edge of the bend ( Mitchell, 2003b ). Here we show that this bend-specific orientation is independent of bend propagation because it occurs in curved, quiescent flagella, and is also independent of spoke head interactions because it occurs during bend propagation in spoke head mutants. Similar CP conformations in flagella that retain or lack radial spoke heads show that spoke–CP interactions are not important determinants of CP orientation in these flagella. Our data do not rule out an effect of spoke–central pair interactions on CP orientation, but suggest that any such effect provides subtle modulation of a primarily spoke-independent orientation mechanism.",
+                "A mechanism consistent with these results would be that an inherently helical CP conforms to axonemal curvature generated by dynein-dependent doublet sliding. When the axoneme curves, the CP always curves with C1 along its outer edge because this shape constitutes a minimum energy CP conformation. Straight flagellar segments between bends force the CP to straighten, which can only be accommodated by a CP twist. During active bend propagation, successive CP curves and twists must also propagate, and it is this propagation of a twisted conformation that results in CP rotation. As each bend elongates, inherent curvature of the CP forces an orientation that keeps specific CP projections directed toward radial spokes along doublets with active dyneins. This relationship is maintained for every bend, in both the principal and reverse bend directions, and propagates with each bend along the axoneme. Regulatory signals, transmitted from CP projections through spokes to modulate dyneins, could simultaneously alter the activity of dyneins in every bend.",
+                "Of what advantage is a rotating CP, and why has rotation been abandoned in some cell types? We contend that bend-dependent CP orientation automatically adjusts the CP regulatory machinery to changes in principal bend direction, and therefore is retained in organelles that must change beat direction. For example, in  P. tetraurelia , major changes in effective stroke direction are modulated by changes in calcium ion concentration through a beat-independent mechanism ( Naitoh and Kaneko, 1972 ). Simultaneously, beat frequency, as well as more subtle changes in effective stroke direction, are modulated by changes in cAMP and cGMP ( Bonini and Nelson, 1988 ), which act in part through changes in the phosphorylation of dynein subunits ( Hamasaki et al., 1991 ;  Noguchi et al., 2000 ). The signal transduction pathway from cyclic nucleotide to outer row dynein phosphorylation has been well studied in  P. tetraurelia  ( Barkalow et al., 1994 ;  Satir et al., 1995 ), and a similar pathway involving inner row dyneins has been identified in  Chlamydomonas . Phosphorylation of  Chlamydomonas  inner row I1 dynein occurs through a CP–radial spoke–modulated cAMP-dependent protein kinase cascade ( Howard et al., 1994 ;  Habermacher and Sale, 1997 ), alters doublet sliding velocities ( Smith and Sale, 1992 ), and has been linked to phototaxis ( King and Dutcher, 1997 ). Thus, although CP orientation is itself determined initially by bend formation, the resulting CP orientation provides a platform for CP–radial spoke modulation of the bend shape (waveform) and propagation velocity (beat frequency), and this regulation of waveform and beat frequency can be independent of effective stroke direction. Not surprisingly,  Chlamydomonas  flagella continue to beat with essentially planar waveforms and to respond in a limited way to shifts in calcium concentration even in the absence of radial spoke–central pair interactions ( Wakabayashi et al., 1997 ), confirming that CP orientation is a response to, not a determinant of, bend plane. Our model predicts that cell types in which CP orientation has become fixed should beat with a fixed bend plane that does not require subtle changes in effective stroke direction ( Mitchell, 2004 ). In the case of ctenophore macrocilia, in which the CP does not rotate ( Tamm and Tamm, 1981 ), hundreds of cilia must beat in unison within each macrocilium, and their geometry precludes effective strokes that vary from a fixed bend plane. These cilia can reverse effective stroke direction in response to calcium signals, but maintain the same axonemal bend plane during forward and reverse beating episodes ( Tamm and Tamm, 1981 ). Likewise, typical metazoan spermatozoa, which have a fixed CP orientation and planar bends, modulate asymmetry, rather than bend plane, to effect tactic responses ( Brokaw, 1979 ;  Cook et al., 1994 ). The apparently fixed CP orientation of lamellibranch gill cilia ( Gibbons, 1961 ;  Warner and Satir, 1974 ) may also correspond with a single effective stroke direction, as the primary response of these organelles to calcium-mediated signals is quiescence, rather than reorientation ( Walter and Satir, 1978 ). This model also explains evolutionary loss of the CP in organelles that beat with helical, rather than planar, bends ( Gibbons et al., 1983 ;  Nonaka et al., 1998 ) because these organelles need not modulate bend direction or waveform symmetry.",
+                "Confirmation of this model requires more information on CP orientation from organisms that can modulate effective stroke orientation, as well as better information about the ability of  Chlamydomonas  to alter beat orientation during tactic responses. To understand the mechanisms of CP-based waveform and beat frequency regulation, we also need better information on central pair proteins and their interactions with radial spoke heads. Recent advances in analyzing proteins of the  Chlamydomonas  radial spoke ( Yang et al., 2001 ,  2004 ) and central pair ( Smith and Lefebvre, 1996 ,  1997 ;  Mitchell and Sale, 1999 ;  Rupp et al., 2001 ;  Zhang and Mitchell, 2004 ), together with continued characterization of mutations affecting CP function ( Wargo and Smith, 2003 ;  Wargo et al., 2004 ;  Zhang and Mitchell, 2004 ), provide promise that advances should not be far off."
+            ],
+            "figures": [],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        },
+        {
+            "title": "Materials and methods",
+            "paragraphs": [
+                "Chlamydomonas  strains used for this study included wild-type strain 137c, spoke head assembly mutants  pf1  and  pf17 , and pf suppressor  sup-pf1-9  ( S-54)  ( Mitchell et al., 2004 ). The  S-54  strain was backcrossed to wild type before crossing with  pf1  to obtain a double mutant strain. Fixation of waveforms during forward swimming followed our previously described methods ( Mitchell, 2003b ). To fix quiescent flagella, cells were pipetted onto clean coverslips and allowed to settle and adhere for 1 min. Medium was gently decanted and replaced with 3% glutaraldehyde in minimal medium (made by mixing 3 ml of 8% glutaraldehyde with 5 ml of medium). After 5 min, the solution was replaced with 1% glutaraldehyde, 50 mM phosphate, pH 6.9, and fixation continued for 1 h at RT. After a brief buffer rinse, coverslips were post-fixed with buffered 1% OsO 4  for 1 h and processed through standard dehydration and flat embedding in epoxy resin. Sections were stained with uranyl acetate and lead citrate and examined in an electron microscope (model 100CX II; Jeol). Negatives were digitized at 1,200 or 2,400 dpi on a flatbed scanner (model Powerlook II; UMAX), and resulting images were processed in Photoshop 6.0 to adjust gamma and contrast. Selected images were further transformed by a 2–3-fold reduction in scale in one dimension to emphasize small changes in CP rotation. In each case a nontransformed image is provided for comparison.",
+                "Extruded central pair complexes were produced spontaneously from reactivated axonemes as follows. Flagella isolated from wild-type cells by standard procedures ( Witman, 1986 ) were resuspended in HMDEK (30 mM Hepes, 5 mM MgSO 4 , 1 mM DTT, 0.5 mM EGTA, 25 mM potassium acetate, and 1 mM PMSF, pH 7.4) and mixed with an equal volume of HMDEK containing 1% NP-40 and 2 mM ATP to initiate reactivation. Reactivated axonemes were set at RT until beating stopped (30–60 min). This preparation was triturated gently to dissociate CP complexes from the distal ends of axonemes and spun in a microfuge at 6,000 rpm for 4 min. The supernatant solution was retained as an enriched CP fraction. Extruded CP were imaged under darkfield illumination (Aksiokop; Carl Zeiss MicroImaging, Inc.; 40× oil immersion, irised 0.5–1.0 NA objective), or were applied to carbon formvar-coated grids and negatively stained with 1% uranyl acetate for EM. Darkfield images were recorded at RT on film (TMax P3200; Kodak), and negatives were scanned at 2,400 dpi on a flatbed scanner. Positive (inverted) images were adjusted for contrast and gamma in Photoshop 6.0."
+            ],
+            "figures": [],
+            "tables": [],
+            "lists": [],
+            "subsections": []
+        }
+    ],
+    "references": [
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1981"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Andrologia.",
+            "year": "1979"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Science.",
+            "year": "2000"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1994"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Protoplasma.",
+            "year": "1981"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1988"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1979"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1982"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Int. J. Syst. Evol. Microbiol.",
+            "year": "2002"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Dev. Biol.",
+            "year": "1994"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Submicrosc. Cytol.",
+            "year": "1983"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Biophys. Biochem. Cytol.",
+            "year": "1961"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1997"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Proc. Natl. Acad. Sci. USA.",
+            "year": "1991"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1994"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Biol. Chem.",
+            "year": "1979"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell.",
+            "year": "1982"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Prog. Clin. Biol. Res.",
+            "year": "1982"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "",
+            "year": ""
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1997"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell Motil. Cytoskeleton.",
+            "year": "2004"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "",
+            "year": ""
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell Motil. Cytoskeleton.",
+            "year": "2003"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell Motil. Cytoskeleton.",
+            "year": "2003"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Biol. Cell.",
+            "year": "2004"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1999"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Science.",
+            "year": "1972"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell Motil. Cytoskeleton.",
+            "year": "2000"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell.",
+            "year": "1998"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1980"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Mol. Biol. Cell.",
+            "year": "1999"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1994"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Mol. Biol. Cell.",
+            "year": "2001"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Biophys. J.",
+            "year": "1995"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Science.",
+            "year": "1992"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1996"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Mol. Biol. Cell.",
+            "year": "1997"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1981"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Cell Motil. Cytoskeleton.",
+            "year": "1997"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1978"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Proc. Natl. Acad. Sci. USA.",
+            "year": "2003"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Sci.",
+            "year": "2004"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1974"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Methods Enzymol.",
+            "year": "1986"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "1978"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "J. Cell Biol.",
+            "year": "2001"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "Eukaryot. Cell.",
+            "year": "2004"
+        },
+        {
+            "title": "",
+            "authors": [],
+            "journal": "",
+            "year": ""
+        }
+    ]
+}

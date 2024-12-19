@@ -1,28 +1,41 @@
 # Clinical-Note-Summarization
 This project aims to build a Clinical Note Summarizer using machine learning models to extract and summarize clinical information from electronic health records (EHRs) stored in XML format. The project involves data processing, feature extraction, model training, and deployment to summarize clinical notes for easier analysis and better insights.
 
+## Model Details
+- **Model Name**: Bio-BART Summarizer
+- **Framework**: Hugging Face Transformers
+- **Model Format**: PyTorch
+- *further details can be found here : https://arxiv.org/pdf/2204.03905* 
+## Dataset Details
 
-## Dataset used:
-  Data used for the following project is PubMed Central (PMC) Open Access Subset.
-  
-## Remaining Tasks
+### Columns
+1. **`paragraphs_cleaned`**: 
+    - The cleaned and preprocessed long-form clinical notes or detailed paragraphs.
+    - Example: 
+      ```
+      "Clinical notes often contain verbose and repetitive information, including details about patient history, symptoms, and treatments."
+      ```
 
-### Data Preprocessing Enhancements
-- [ ] Improve data cleaning and feature extraction.
-- [ ] Handle missing or incomplete data points.
+2. **`abstract_cleaned`**: 
+    - The cleaned and preprocessed short-form summaries or abstracts of the clinical notes.
+    - Example: 
+      ```
+      "Clinical notes are verbose and detailed."
+      ```
 
-### Model Improvements
-- [ ] Perform hyperparameter tuning (learning rate, batch size, etc.).
-- [ ] Investigate and implement advanced summarization models like BART or T5.
+---
 
-### Evaluation and Validation
-- [ ] Perform cross-validation on the model.
-- [ ] Conduct human evaluation for the quality of summaries.
+## Data Statistics
 
-### Deployment
-- [ ] Integrate the model into a Flask-based API.
-- [ ] Optimize the model for faster inference time and lower memory usage.
+- **Total Rows**: 30k approx
+- **Columns**: 2
+  - `paragraphs_cleaned`
+  - `abstract_cleaned`
 
-### Documentation and Final Report
-- [ ] Finalize project documentation (README, installation instructions, usage).
-- [ ] Prepare the final project report summarizing the challenges and solutions.
+### Data Split
+- **Training Set**: (80%)
+- **Validation Set**: (10%)
+- **Test Set**: (10%)
+
+## Loss Curve
+![Training Loss Curve](https://github.com/A-b-h-a-y-0-2/Clinical-Note-Summarization/blob/main/loss%20curve.png)

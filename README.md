@@ -38,4 +38,4 @@ This project aims to build a Clinical Note Summarizer using machine learning mod
 - **Test Set**: (10%)
 
 ## Loss Curve
-![Training Loss Curve](https://github.com/A-b-h-a-y-0-2/Clinical-Note-Summarization/blob/main/loss%20curve.png)
+![Training Loss Curve][https://github.com/A-b-h-a-y-0-2/Clinical-Note-Summarization/blob/main/loss%20curve(20%20epochs).png] 
